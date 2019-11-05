@@ -8,6 +8,6 @@ Create a complex number database to store multiple complex numbers. Your program
 
 4. Display should list all the complex numbers on the console.
 
-5.  Save should save all the complex numbers in file lab2complex.txt
+5. Save should save all the complex numbers in file lab2complex.txt
 
 6. Implement operator overloading where ever necessary.
